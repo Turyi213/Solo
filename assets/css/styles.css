@@ -1,11 +1,17 @@
-.navbar-light.bg-light.off{
+.navbar-light.bg-light.off {
     background-color: black !important;
 }
+
 .navbar-light.bg-light {
-background-color:white ;
+    background-color: white;
 }
-.marginright{
-    margin-left:700px !important;
+
+.marginright {
+    margin-left: 700px !important;
 }
-a.nav-link.text-white.f{
+
+a.nav-link.text-white.f {}
+
+.logonav {
+    width: 80%;
 }
